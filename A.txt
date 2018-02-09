@@ -1,0 +1,2 @@
+this is A.txt present in master repository at local
+machine
